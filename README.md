@@ -10,7 +10,7 @@ I like building things that can actually run on their own, not just demos that w
 
 I'm building the platform behind SyndicateBox with TypeScript, Next.js, Node.js, Postgres, and Drizzle.
 
-Each newsletter researches local sources, drafts the issue, places ads, and sends itself automatically. The largest region currently has 1,100 subscribers and a 65% open rate.
+Each newsletter researches local sources, drafts the issue, places ads, and sends itself automatically. The largest region currently has 1,100 subscribers.
 
 I also built the Stripe flow advertisers use to buy placements and moved our email delivery from Postmark to Amazon SES.
 
